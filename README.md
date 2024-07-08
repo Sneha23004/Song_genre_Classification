@@ -1,2 +1,2 @@
 # Song_genre_Classification
-This project classifies songs into genres using a Convolutional Neural Network (CNN) based on audio features. It utilizes datasets such as GTZAN and this model architecture includes several convolutional and max-pooling layers followed by dense layers. Results show the effectiveness of CNNs in music genre classification.
+This project utilizes a Convolutional Neural Network (CNN) trained on the GTZAN dataset to classify song genres. The CNN model achieves high accuracy, with 98.8% on training data and 89.4% on test data. Developed in Google Colab, it efficiently categorizes songs into 10 distinct genres, showcasing strong performance in music genre classification tasks.
